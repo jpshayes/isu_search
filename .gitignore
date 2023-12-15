@@ -1,0 +1,8 @@
+# Exclude macOS system files
+.DS_Store
+
+# Exclude virtual environment directory
+myenv/
+
+# Exclude Git directory (if not managed by Git itself)
+.git/
